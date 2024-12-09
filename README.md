@@ -5,5 +5,6 @@ It shows the implementation of the daisy chain block using;
   01. Dataflow Modelling.
   02. Structural Modelling.
   03. Behavioural Modelling.
+  
 Test wabeform results are also provided for all three types.
 Test benched was simulated on ModelSim starter edition 2020.1 by Mentor Graphics.
